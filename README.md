@@ -1,2 +1,5 @@
-"# ObjectRandomizerLibrary"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/DHemken97/ObjectRandomizerLibrary.git git push -u origin master
-"# ObjectRandomizerLibrary" 
+Object Randomizer Library
+
+This Library is meant to recursivly fill an object with
+Random Values. These values can be used for many usefull
+purposes but is mainly intended for unit testing. 

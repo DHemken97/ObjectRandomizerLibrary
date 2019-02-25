@@ -1,0 +1,6 @@
+C:\Users\d1108\source\repos\ObjectRandomizer\ObjectRandomizer\bin\Debug\ObjectRandomizer.dll
+C:\Users\d1108\source\repos\ObjectRandomizer\ObjectRandomizer\bin\Debug\ObjectRandomizer.pdb
+C:\Users\d1108\source\repos\ObjectRandomizer\ObjectRandomizer\obj\Debug\ObjectRandomizer.csprojAssemblyReference.cache
+C:\Users\d1108\source\repos\ObjectRandomizer\ObjectRandomizer\obj\Debug\ObjectRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\d1108\source\repos\ObjectRandomizer\ObjectRandomizer\obj\Debug\ObjectRandomizer.dll
+C:\Users\d1108\source\repos\ObjectRandomizer\ObjectRandomizer\obj\Debug\ObjectRandomizer.pdb
